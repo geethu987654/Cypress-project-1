@@ -1,0 +1,55 @@
+=== Login Test Report ===
+
+Test #1 | Email=undefined | Password=undefined ? FAILED (Unexpected Success)
+Test #2 | Email=validUser | Password=undefined ? FAILED (Unexpected Success)
+Test #3 | Email=wrongUser | Password=wrongPass ? FAILED (Unexpected Success)
+Test #4 | Email=#### | Password=1234 ? FAILED (Unexpected Success)
+=== Login Test Report ===
+
+Test #1 | Email=undefined | Password=undefined ? FAILED (Unexpected Success)
+Test #2 | Email=validUser | Password=undefined ? FAILED (Unexpected Success)
+Test #3 | Email=wrongUser | Password=wrongPass ? FAILED (Unexpected Success)
+Test #4 | Email=#### | Password=1234 ? FAILED (Unexpected Success)
+=== Login Test Report ===
+
+=== Login Test Report ===
+
+=== Login Test Report ===
+
+Test #1 | Email=loyaloc@gmail.com | Password=2025ACCESS ? PASSED (Blocked)
+Test #2 | Email=dhsdgh@hmail.com | Password=hvdfbf ? FAILED (Unexpected Success)
+Test #3 | Email=1233455 | Password=4353456 ? FAILED (Unexpected Success)
+Test #4 | Email=loyaloc@gmail.com | Password=8546514231 ? FAILED (Unexpected Success)
+Test #5 | Email=jhbf@gmail.com | Password=2025ACCESS ? FAILED (Unexpected Success)
+Test #6 | Email=####!!!!@@@ | Password=##%%@* ? FAILED (Unexpected Success)
+Test #7 | Email=1=1 | Password=1=1 ? FAILED (Unexpected Success)
+=== Login Test Report ===
+
+Test #1 | Email=loyaloc@gmail.com | Password=2025ACCESS ? PASSED (Blocked)
+Test #2 | Email=dhsdgh@hmail.com | Password=hvdfbf ? FAILED (Unexpected Success)
+Test #3 | Email=1233455 | Password=4353456 ? FAILED (Unexpected Success)
+Test #4 | Email=loyaloc@gmail.com | Password=8546514231 ? FAILED (Unexpected Success)
+Test #5 | Email=jhbf@gmail.com | Password=2025ACCESS ? FAILED (Unexpected Success)
+Test #6 | Email=####!!!!@@@ | Password=##%%@* ? FAILED (Unexpected Success)
+Test #7 | Email=1=1 | Password=1=1 ? FAILED (Unexpected Success)
+? should load the Main Company page - FAILED
+? should load the Main Company page - FAILED
+should load the Main Company page - FAILED
+should load the Main Company page - FAILED
+should load the Main Company page - FAILED
+should load the Main Company page - FAILED
+should load the Main Company page - FAILED
+should load the Main Company page - FAILED
+=== Login Test Report ===
+
+=== Login Test Report ===
+
+Test #1 | Email=loyaloc@gmail.com | Password=2025ACCESS ? PASSED (Blocked)
+Test #2 | Email=dhsdgh@hmail.com | Password=hvdfbf ? FAILED (Unexpected Success)
+Test #3 | Email=1233455 | Password=4353456 ? FAILED (Unexpected Success)
+Test #4 | Email=loyaloc@gmail.com | Password=8546514231 ? FAILED (Unexpected Success)
+Test #5 | Email=jhbf@gmail.com | Password=2025ACCESS ? FAILED (Unexpected Success)
+Test #6 | Email=####!!!!@@@ | Password=##%%@* ? FAILED (Unexpected Success)
+Test #7 | Email=1=1 | Password=1=1 ? FAILED (Unexpected Success)
+=== Login Test Report ===
+
